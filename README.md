@@ -21,4 +21,6 @@ File: static\js/app.js
 
 5. Displayed each key-value pair from the metadata JSON object somewhere on the page.
 
-6. Updated all the plots when a new sample is selected. 
+6. Updated all the plots when a new sample is selected.
+   
+7. Deploy my app using GitHub Page: https://lilnessa.github.io/belly-button-challenge/
